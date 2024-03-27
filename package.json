@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@trpc/client": "^10.45.2",
+    "@trpc/server": "11.0.0-next.325",
+    "zod": "^3.22.4"
+  },
+  "name": "trpc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^20.11.30",
+    "typescript": "^5.4.3"
+  }
+}
